@@ -1,0 +1,11 @@
+[project]
+name = "orchestration-via-llm-and-via-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chainlit>=2.8.2",
+    "openai-agents>=0.3.3",
+    "python-dotenv>=1.1.1",
+]
